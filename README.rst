@@ -1,7 +1,7 @@
 Geogig Sync QGIS Plugin
 ========
 
-This is a very simple QGIS pluin that simplifies version controlling using Geogig. It is intended
+This is a very simple QGIS plugin that simplifies version controlling using Geogig. It is intended
 to be used between a remote or local repository and a single user. Branches are not yet supported.
 
 Installation
